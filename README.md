@@ -4,7 +4,7 @@
 [![codecov](https://codecov.io/gh/itsAnth/lab-travis-ci/branch/master/graph/badge.svg)](https://codecov.io/gh/itsAnth/lab-travis-ci)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
     
-This is for NYU DevOps lab on using Travis CI with Redis for Continuous Integration
+This is for NYU DevOps lab on using Travis CI with Redis for Continuous Integrationfr
 
 ## Introduction
 
